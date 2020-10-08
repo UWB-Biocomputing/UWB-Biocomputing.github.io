@@ -25,9 +25,7 @@ The original idea behind the BrainGrid Project is to develop a toolkit/software 
 
 - Single-threaded on general-purpose CPU
 - GPU-accelerated using NVIDIA's CUDA libraries
-- Multi-cluster (using multiple CPU cores and/or multiple GPUs) — *under development*
-- GPU-accelerated using OpenCL — *planned*
-- Multi-threading using OpenMP — *planned*
+- Multi-cluster (using multiple CPU cores and multiple GPUs)
 
 ### Supported operating systems:
 
@@ -41,9 +39,9 @@ The original idea behind the BrainGrid Project is to develop a toolkit/software 
 
 ### Latest News about BrainGrid:
 
-Our recently published conference paper for IJCNN 2017:
+We are in the process of developing a complete re-architecting of BrainGrid, which will simplify its structure, pay off most of its technical debt, and make it easier to extend and modify. As of October 2020 the CPU version is working; we expect the GPU version to be working well before the end of 2020.
 
-> Michael Stiber, Fumitaka Kawasaki, Delmar Davis, Hazeline Asuncion, Jewel Lee, and Destiny Boyer. *BrainGrid+Workbench: High-Performance/High-Quality Neural Simulation*. International Joint Conference on Neural Networks (IJCNN), 14 – 19 May 2017, Anchorage, AK.
+See the University of Washington Bothell [Biocomputing Lab page](http://depts.washington.edu/biocomp/) for a news compendium, possibly even up-to-date.
 
 ### Support or Contact:
 
