@@ -35,7 +35,7 @@ Graphitti is under active development to include all BrainGrid functionality and
 
 ### Examples [under construction]
 
-### [Lab Publication](https://uwb-biocomputing.github.io/Graphitti/docs/BGDocs/lab-publication.md) 
+## [Lab Publication](lab-publications.md) 
 
 ### [Acknowledgements](https://uwb-biocomputing.github.io/Graphitti/docs/BGDocs/acknowledgements.md)
 
