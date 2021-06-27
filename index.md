@@ -50,3 +50,9 @@ Graphitti is under active development to include all BrainGrid functionality and
 
 
 ## [Lab Publications](lab-publications.md) 
+
+## Other Resources:
+
+- [Graphitti Forum](https://groups.google.com/g/uwb-braingrid): A place for members of UWB Biocomputing's lab to collaborate. Click the button "Apply to join this group" to join!
+- [Git Crash Course](https://github.com/UWB-Biocomputing/BrainGrid/wiki/Git-Crash-Course)
+- [Linux Crash Course](https://github.com/UWB-Biocomputing/BrainGrid/wiki/Linux-Crash-Course)
