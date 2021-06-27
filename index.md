@@ -27,7 +27,11 @@ Software and data provenance management platform for simulations of dissociated 
 - Captures all software and data provenance information so that later, the investigator can compare different results generated at different times and see how they differ in terms of not only their input parameters but also their simulator versions. 
 - Helps one to determine whether two simulations are comparable, whether one or more are invalid due to simulator bugs, etc. (This also connects to the idea of "high quality".)
 
+### [BrainGrid](https://uwb-biocomputing.github.io/BrainGrid/)
 
+The predecessor to Graphitti, BrainGrid is currently the only simulator capable of multi-cluster simulation using multiple CPU cores and multiple GPUs. 
+
+Graphitti is under active development to include all BrainGrid functionality and more. 
 
 ### Examples [under construction]
 
