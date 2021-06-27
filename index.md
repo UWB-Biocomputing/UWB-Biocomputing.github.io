@@ -18,6 +18,19 @@ A project to facilitate construction of high-performance neural simulations.
 - It assumes that an investigator will first want to implement small and/or short duration simulations that run as a single thread on a CPU, to provide validation data to increase confidence in result validity (this is part of the "high quality" theme).
 - It provides a programming interface to minimize code changes needed to port the simulation to single or multiple GPUs. In effect, we've already optimized the simulator for GPUs (this addresses the "high performance" aspect).
 
+#### Multiple simulation architectures:
+
+- Single-threaded on general-purpose CPU
+- GPU-accelerated using NVIDIA's CUDA libraries
+- Multi-cluster (using multiple CPU cores and/or multiple GPUs) — *under development*
+- GPU-accelerated using OpenCL — *planned*
+- Multi-threading using OpenMP — *planned*
+
+#### Supported operating systems:
+
+- GNU Linux
+
+
 ### [Workbench](https://UWB-Biocomputing.github.io/WorkBench/)
 
 Software and data provenance management platform for simulations of dissociated cortical cultures.
@@ -33,33 +46,7 @@ The predecessor to Graphitti, BrainGrid is currently the only simulator capable 
 
 Graphitti is under active development to include all BrainGrid functionality and more. 
 
-### Examples [under construction]
-
-## [Lab Publication](lab-publications.md) 
-
-### [Acknowledgements](https://uwb-biocomputing.github.io/Graphitti/docs/BGDocs/acknowledgements.md)
-
----------
-### Multiple simulation architectures:
-
-- Single-threaded on general-purpose CPU
-- GPU-accelerated using NVIDIA's CUDA libraries
-- Multi-cluster (using multiple CPU cores and/or multiple GPUs) — *under development*
-- GPU-accelerated using OpenCL — *planned*
-- Multi-threading using OpenMP — *planned*
-
-### Supported operating systems:
-
-- GNU Linux
-
-### Graphitti Resources:
-
-- [Graphitti Forum]([https://groups.google.com/forum/#!forum/uwb-graphitti](https://groups.google.com/forum/#!forum/uwb-braingrid)): A place where Graphitti artists can communicate and collaborate. Click the button "Apply to join this group" to join!
-- [Git Crash Course](https://github.com/UWB-Biocomputing/BrainGrid/wiki/Git-Crash-Course)
-- [Linux Crash Course](https://github.com/UWB-Biocomputing/BrainGrid/wiki/Linux-Crash-Course)
+## Examples [under construction]
 
 
-### Doxygen 
-
-[Visit Doxygen Generated Documentation](docs/Doxygen/html/index.html)
-[Visit Doxygen Generated Documentation w/o docs root](Doxygen/html/index.html)
+## [Lab Publications](lab-publications.md) 
