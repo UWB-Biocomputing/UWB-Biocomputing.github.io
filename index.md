@@ -1,8 +1,3 @@
-todo: make this
-
-
-[![DOI](https://zenodo.org/badge/6034062.svg)](https://zenodo.org/badge/latestdoi/6034062)
-
 ## The Graphitti Project
 
 The original idea behind the Graphitti Project is to develop a toolkit/software architecture to ease creating high-performance network simulators. It is now composed of two parts Graphitti (the simulator) and Workbench (a simulation and data/software provenance tool). So, we now say that Graphitti+Workbench focuses on enabling **high-performance/high-quality** simulation of network-structured systems.
