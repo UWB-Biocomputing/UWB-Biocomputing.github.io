@@ -5,11 +5,11 @@ todo: make this
 
 ## The Graphitti Project
 
-The original idea behind the Graphitti Project is to develop a toolkit/software architecture to ease creating high-performance network simulators. It is now composed of two parts Graphitti (the simulator) and Workbench (a simulation and data/software provenance tool). So, we now say that Graphitti+Workbench focuses on enabling **high-performance/high-quality** neural simulation.
+The original idea behind the Graphitti Project is to develop a toolkit/software architecture to ease creating high-performance network simulators. It is now composed of two parts Graphitti (the simulator) and Workbench (a simulation and data/software provenance tool). So, we now say that Graphitti+Workbench focuses on enabling **high-performance/high-quality** simulation of network-structured systems.
 
 ### [Graphitti](https://uwb-biocomputing.github.io/Graphitti/)
 
-A project to facilitate construction of high-performance neural simulations.
+A project to facilitate construction of high-performance simulations of network-structured systems.
 
 #### Key features:
 - Its target audience are researchers who need higher performance than that made available by general-purpose simulators, those that use Python, etc. and who are therefore considering writing their own simulation code in C/C++.
